@@ -6,12 +6,12 @@ This repository contains documentation and resources for Year 1 labs in Electric
 ## Analysis and Design of Circuits (ADC)
 
 ### Part 1 — Autumn Term Weeks 4–6
-- [Section 1: Measuring Impedance](#)
-  - [Lab Report](#)
-- [Section 2: Reactive Components](#)
-  - [Lab Report](#)
-- [Section 3: Resonance and Filters](#)
-  - [Lab Report](#)
+- [Section 1: Measuring Impedance](ADC/Part1/ADC%20part1%20sec1.pdf)
+  - [Lab Report](ADC/Part1/Section1.md)
+- [Section 2: Reactive Components](ADC/Part1/ADC%20part1%20sec2.pdf)
+  - [Lab Report](ADC/Part1/Section2.md)
+- [Section 3: Resonance and Filters](ADC/Part1/ADC%20part1%20sec3.pdf)
+  - [Lab Report](ADC/Part1/Section3.md)
 
 ### Part 2 — Autumn Term Weeks 8–10
 - [Section 1: Biasing and Amplification](#)
@@ -59,4 +59,3 @@ This repository contains documentation and resources for Year 1 labs in Electric
 
 ### Spring Term
 See [DECA Spring web pages](#) for Spring Term labs.
-
