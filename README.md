@@ -42,10 +42,4 @@ This repository contains documentation and resources for Year 1 labs in Electric
 ### Spring Term
 See [DECA Spring web pages](#) for Spring Term labs.
 
----
 
-## Oscilloscopes
-
-Remind yourself about using the Rohde and Schwarz oscilloscope with [this video](#).
-
-If you want to catch up on lab work at home, you can borrow a Picoscope (USB oscilloscope) from EEE Stores. [This video](#) explains how to use it.
