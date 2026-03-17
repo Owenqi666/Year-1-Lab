@@ -1,0 +1,8 @@
+mkdir ADC
+mkdir ADC/Part1
+mkdir ADC/Part2
+mkdir ADC/Part3
+mkdir ADC/Part4
+git add .
+git commit -m "Add ADC folder structure"
+git push
