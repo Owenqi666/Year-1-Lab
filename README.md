@@ -44,18 +44,43 @@ This repository contains documentation and resources for Year 1 labs in Electric
 ## Digital Electronics and Computer Architecture (DECA)
 
 ### Part 1 — Autumn Term Weeks 4–6
-- [Section 1: Design with Issie](#)
-  - [Lab Report](#)
-- [Section 2: Digital Arithmetic](#)
-  - [Lab Report](#)
-- [Section 3: Sequential Circuits](#)
-  - [Lab Report](#)
+- [Section 1: Design with Issie](DECA/Part1/Section1.md)
+  - [Lab Report](DECA/Part1/DECA%20part1%20sec1.pdf)
+- [Section 2: Digital Arithmetic](DECA/Part1/Section2.md)
+  - [Lab Report](DECA/Part1/DECA%20part1%20sec2.pdf)
+- [Section 3: Sequential Circuits](DECA/Part1/Section3.md)
+  - [Lab Report](DECA/Part1/DECA%20part1%20sec3.pdf)
 
 ### Part 2 — Autumn Term Weeks 8–10
-- [Section 1: Memory](#)
-  - [Lab Report](#)
-- [Section 2: State Machines](#)
-  - [Lab Report](#)
+- [Section 1: Memory](DECA/Part2/Section1.md)
+  - [Lab Report](DECA/Part2/DECA%20part2%20sec1.pdf)
+- [Section 2: State Machines](DECA/Part2/Section2.md)
+  - [Lab Report](DECA/Part2/DECA%20part2%20sec2.pdf)
 
-### Spring Term
-See [DECA Spring web pages](#) for Spring Term labs.
+### Spring Lab 1 — EEP1 Datapath & ALU Instructions
+- [Lab 1: Spring 2025](DECA/Spring/Lab1-2025/Lab1_2025.pdf)
+  - [Lab Logbook](DECA/Spring/Lab1-2025/DECA%20Lab1%20logbook)
+
+### Spring Lab 2 — EEP1 Control Path and Jump Instructions
+- [Lab 2: Spring 2026](DECA/Spring/Lab2-2025/Lab2_2026.pdf)
+  - [Lab Logbook](DECA/Spring/Lab2-2025/DECA%20Lab2%20logbook)
+  - [Lab Challenge](DECA/Spring/Lab2-2025/Lab2%20challenge)
+
+### Spring Lab 3 — EEP1 Pipelining and Interrupts
+- [Lab 3: Spring 2026](DECA/Spring/Lab3-2025/Lab3_2026.pdf)
+  - [Lab Logbook](DECA/Spring/Lab3-2025/DECA%20Lab3%20logbook)
+
+---
+
+## Lab Skills
+
+### Part 1 — Autumn Term Weeks 2–3
+- Section 1: Construct the EEEBug
+- Section 2: Pulses
+- Section 3: Sinusoids
+
+### Part 2 — Spring Term Weeks 1–2
+- Section 4: Power and Motor Drive
+- Section 5: Signal Generation
+- Section 6: Sensing
+- Section 7: Control
