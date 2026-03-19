@@ -58,16 +58,16 @@ This repository contains documentation and resources for Year 1 labs in Electric
   - [Lab Report](DECA/Part2/DECA%20part2%20sec2.pdf)
 
 ### Spring Lab 1 — EEP1 Datapath & ALU Instructions
-- [Lab 1: Spring 2025](DECA/Spring/Lab1-2025/Lab1_2025.pdf)
+- [Lab 1 Instruction](DECA/Spring/Lab1-2025/Lab1_2025.pdf)
   - [Lab Logbook](DECA/Spring/Lab1-2025/DECA%20Lab1%20logbook)
 
 ### Spring Lab 2 — EEP1 Control Path and Jump Instructions
-- [Lab 2: Spring 2026](DECA/Spring/Lab2-2025/Lab2_2026.pdf)
+- [Lab 2 Instruction](DECA/Spring/Lab2-2025/Lab2_2026.pdf)
   - [Lab Logbook](DECA/Spring/Lab2-2025/DECA%20Lab2%20logbook)
   - [Lab Challenge](DECA/Spring/Lab2-2025/Lab2%20challenge)
 
 ### Spring Lab 3 — EEP1 Pipelining and Interrupts
-- [Lab 3: Spring 2026](DECA/Spring/Lab3-2025/Lab3_2026.pdf)
+- [Lab 3 Instruction](DECA/Spring/Lab3-2025/Lab3_2026.pdf)
   - [Lab Logbook](DECA/Spring/Lab3-2025/DECA%20Lab3%20logbook)
 
 ---
