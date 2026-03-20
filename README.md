@@ -1,5 +1,5 @@
 # Year-1-Lab
-# EEE1 Labs — DECA & ADC
+# DECA & ADC
 
 This repository contains documentation and resources for Year 1 labs in Electrical and Electronic Engineering at Imperial College London, covering **Digital Electronics and Computer Architecture (DECA)** and **Analysis and Design of Circuits (ADC)**.
 
